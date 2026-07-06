@@ -19,6 +19,7 @@ def crear_tarea(tarea: TareaCreate):
     guardar_tareas(tareas)
     return tarea
 
+# def obtener_tareas(prioridad: Optional[str] = None):
 def obtener_tareas(prioridad:str | None = None):
     tareas=cargar_tareas()
     if prioridad is None:
