@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "texto": "{   \"texto\": \"Comprar pan\" }",
+        "completada": false
+    },
+    {
+        "id": 2,
+        "texto": "Comprar pan",
+        "completada": false
+    },
+    {
+        "id": 3,
+        "texto": "lo",
+        "completada": false
+    },
+    {
+        "id": 4,
+        "texto": "string",
+        "completada": false
+    },
+    {
+        "id": 5,
+        "texto": "      ",
+        "completada": false
+    }
+]
