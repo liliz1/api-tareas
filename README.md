@@ -5,4 +5,4 @@ Mi primer proyecto con FastAPI y Git.
 ## Próximas mejoras
 
 - Añadir categorías
-## Mi primera API desarrollada con FastAPI
+## Mi primera API desarrollada con FastAPI durante el curso
